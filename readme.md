@@ -1,1 +1,1 @@
-airflow - not recommend in windows, docker env
+airflow - not recommend in windows env
