@@ -10,4 +10,4 @@ airflow - not recommend in windows env
 
 ### 2023-08-06 
 
-<mark>__api 에서 요청한 데이터를 df화 후 csv 파일을 hadoop 에 parquet 으로 저장하기 + (일자, 시간별 로그 streaming 처리 도전)</mark>
+<mark>__api 에서 요청한 데이터를 df화 후 csv 파일을 hadoop 에 parquet 으로 저장하기 + (일자, 시간별 로그 streaming 처리 도전)__</mark>
